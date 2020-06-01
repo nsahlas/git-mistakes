@@ -2,6 +2,7 @@
 
 function helloWorld() {
  alert('Hi!') 
+ alert('Hello from github')
 }
 
 function secondFunction() {
